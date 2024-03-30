@@ -1,4 +1,4 @@
-package com.simplicitystore.app
+package com.openfashion.app
 
 import io.flutter.embedding.android.FlutterActivity
 
