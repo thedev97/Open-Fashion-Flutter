@@ -1,5 +1,5 @@
 name: open_fashion
-description: E-commerce app.
+description: E-commerce application.
 version: 1.0.0+1
 environment: 
   sdk: '>=3.2.5 <4.0.0'
