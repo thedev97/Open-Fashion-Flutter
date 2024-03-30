@@ -1,7 +1,7 @@
 import '../models/cartcomponent_item_model.dart';
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/widgets/custom_icon_button.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/widgets/custom_icon_button.dart';
 
 // ignore: must_be_immutable
 class CartcomponentItemWidget extends StatelessWidget {

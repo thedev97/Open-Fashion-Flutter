@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/presentation/payment_success_dialog/models/payment_success_model.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/presentation/payment_success_dialog/models/payment_success_model.dart';
 
 /// A provider class for the PaymentSuccessDialog.
 ///

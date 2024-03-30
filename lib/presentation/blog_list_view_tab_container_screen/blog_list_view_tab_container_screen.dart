@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
+import 'package:open_fashion/core/app_export.dart';
 import 'provider/blog_list_view_tab_container_provider.dart';
-import 'package:simplicity_store/widgets/app_bar/custom_app_bar.dart';
-import 'package:simplicity_store/widgets/app_bar/appbar_leading_image.dart';
-import 'package:simplicity_store/widgets/app_bar/appbar_title_image.dart';
-import 'package:simplicity_store/widgets/app_bar/appbar_trailing_image.dart';
-import 'package:simplicity_store/presentation/blog_grid_view_page/blog_grid_view_page.dart';
-import 'package:simplicity_store/presentation/blog_list_view_page/blog_list_view_page.dart';
+import 'package:open_fashion/widgets/app_bar/custom_app_bar.dart';
+import 'package:open_fashion/widgets/app_bar/appbar_leading_image.dart';
+import 'package:open_fashion/widgets/app_bar/appbar_title_image.dart';
+import 'package:open_fashion/widgets/app_bar/appbar_trailing_image.dart';
+import 'package:open_fashion/presentation/blog_grid_view_page/blog_grid_view_page.dart';
+import 'package:open_fashion/presentation/blog_list_view_page/blog_list_view_page.dart';
 
 class BlogListViewTabContainerScreen extends StatefulWidget {
   const BlogListViewTabContainerScreen({Key? key})

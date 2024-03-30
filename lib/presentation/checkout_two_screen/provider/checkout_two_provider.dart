@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/presentation/checkout_two_screen/models/checkout_two_model.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/presentation/checkout_two_screen/models/checkout_two_model.dart';
 
 /// A provider class for the CheckoutTwoScreen.
 ///

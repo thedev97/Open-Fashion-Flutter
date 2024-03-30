@@ -1,8 +1,8 @@
 import 'models/payment_success_model.dart';
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/widgets/custom_elevated_button.dart';
-import 'package:simplicity_store/widgets/custom_outlined_button.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/widgets/custom_elevated_button.dart';
+import 'package:open_fashion/widgets/custom_outlined_button.dart';
 import 'provider/payment_success_provider.dart';
 
 class PaymentSuccessDialog extends StatefulWidget {

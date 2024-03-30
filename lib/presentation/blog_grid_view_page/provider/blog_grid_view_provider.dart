@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/presentation/blog_grid_view_page/models/blog_grid_view_model.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/presentation/blog_grid_view_page/models/blog_grid_view_model.dart';
 import '../models/post_item_model.dart';
 import '../models/fashion1_item_model.dart';
 

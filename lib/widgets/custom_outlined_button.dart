@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/widgets/base_button.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/widgets/base_button.dart';
 
 class CustomOutlinedButton extends BaseButton {
   CustomOutlinedButton({

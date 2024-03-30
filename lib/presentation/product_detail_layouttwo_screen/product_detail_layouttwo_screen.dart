@@ -4,12 +4,12 @@ import 'models/product_detail_layouttwo_model.dart';
 import 'models/productdetaillayouttwo_item_model.dart';
 import 'models/userprofile1_item_model.dart';
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/widgets/app_bar/appbar_leading_image.dart';
-import 'package:simplicity_store/widgets/app_bar/appbar_title_image.dart';
-import 'package:simplicity_store/widgets/app_bar/appbar_trailing_image.dart';
-import 'package:simplicity_store/widgets/app_bar/custom_app_bar.dart';
-import 'package:simplicity_store/widgets/custom_icon_button.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/widgets/app_bar/appbar_leading_image.dart';
+import 'package:open_fashion/widgets/app_bar/appbar_title_image.dart';
+import 'package:open_fashion/widgets/app_bar/appbar_trailing_image.dart';
+import 'package:open_fashion/widgets/app_bar/custom_app_bar.dart';
+import 'package:open_fashion/widgets/custom_icon_button.dart';
 import 'provider/product_detail_layouttwo_provider.dart';
 
 class ProductDetailLayouttwoScreen extends StatefulWidget {

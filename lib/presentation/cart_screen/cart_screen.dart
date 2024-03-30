@@ -2,8 +2,8 @@ import '../cart_screen/widgets/cartcomponent_item_widget.dart';
 import 'models/cart_model.dart';
 import 'models/cartcomponent_item_model.dart';
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/widgets/app_bar/custom_app_bar.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/widgets/app_bar/custom_app_bar.dart';
 import 'provider/cart_provider.dart';
 
 class CartScreen extends StatefulWidget {

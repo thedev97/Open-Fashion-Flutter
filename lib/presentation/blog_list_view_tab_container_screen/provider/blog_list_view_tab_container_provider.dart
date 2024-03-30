@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/presentation/blog_list_view_tab_container_screen/models/blog_list_view_tab_container_model.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/presentation/blog_list_view_tab_container_screen/models/blog_list_view_tab_container_model.dart';
 
 /// A provider class for the BlogListViewTabContainerScreen.
 ///

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/presentation/collection_screen/models/collection_model.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/presentation/collection_screen/models/collection_model.dart';
 
 /// A provider class for the CollectionScreen.
 ///

@@ -1,8 +1,8 @@
 import 'models/menu_expand_tab_container_model.dart';
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/presentation/menu_page/menu_page.dart';
-import 'package:simplicity_store/widgets/app_bar/custom_app_bar.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/presentation/menu_page/menu_page.dart';
+import 'package:open_fashion/widgets/app_bar/custom_app_bar.dart';
 import 'provider/menu_expand_tab_container_provider.dart';
 
 class MenuExpandTabContainerScreen extends StatefulWidget {

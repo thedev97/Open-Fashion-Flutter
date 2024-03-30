@@ -3,7 +3,7 @@ import '../models/fashion1_item_model.dart';
 import '../models/post_item_model.dart';
 import 'fashion1_item_widget.dart';
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
+import 'package:open_fashion/core/app_export.dart';
 
 // ignore: must_be_immutable
 class PostItemWidget extends StatelessWidget {

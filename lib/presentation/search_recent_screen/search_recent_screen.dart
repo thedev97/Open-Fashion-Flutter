@@ -2,7 +2,7 @@ import '../search_recent_screen/widgets/chipviewclose_item_widget.dart';
 import 'models/chipviewclose_item_model.dart';
 import 'models/search_recent_model.dart';
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
+import 'package:open_fashion/core/app_export.dart';
 import 'provider/search_recent_provider.dart';
 
 class SearchRecentScreen extends StatefulWidget {

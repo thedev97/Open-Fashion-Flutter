@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
             builder: (context, provider, child) {
               return MaterialApp(
                 theme: theme,
-                title: 'simplicity_store',
+                title: 'open_fashion',
                 navigatorKey: NavigatorService.navigatorKey,
                 debugShowCheckedModeBanner: false,
                 localizationsDelegates: [

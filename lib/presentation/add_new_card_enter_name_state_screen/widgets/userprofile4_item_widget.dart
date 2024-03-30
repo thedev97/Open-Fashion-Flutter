@@ -3,7 +3,7 @@ import '../models/userprofile5_item_model.dart';
 import '../widgets/userprofile5_item_widget.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
+import 'package:open_fashion/core/app_export.dart';
 
 // ignore: must_be_immutable
 class Userprofile4ItemWidget extends StatelessWidget {

@@ -1,13 +1,13 @@
 import 'models/add_new_address_model.dart';
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/core/utils/validation_functions.dart';
-import 'package:simplicity_store/widgets/app_bar/appbar_leading_image.dart';
-import 'package:simplicity_store/widgets/app_bar/appbar_title_image.dart';
-import 'package:simplicity_store/widgets/app_bar/appbar_trailing_image.dart';
-import 'package:simplicity_store/widgets/app_bar/custom_app_bar.dart';
-import 'package:simplicity_store/widgets/custom_elevated_button.dart';
-import 'package:simplicity_store/widgets/custom_text_form_field.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/core/utils/validation_functions.dart';
+import 'package:open_fashion/widgets/app_bar/appbar_leading_image.dart';
+import 'package:open_fashion/widgets/app_bar/appbar_title_image.dart';
+import 'package:open_fashion/widgets/app_bar/appbar_trailing_image.dart';
+import 'package:open_fashion/widgets/app_bar/custom_app_bar.dart';
+import 'package:open_fashion/widgets/custom_elevated_button.dart';
+import 'package:open_fashion/widgets/custom_text_form_field.dart';
 import 'provider/add_new_address_provider.dart';
 
 class AddNewAddressScreen extends StatefulWidget {

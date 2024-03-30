@@ -1,8 +1,8 @@
 import '../blog_grid_view_page/widgets/post_item_widget.dart';
 import 'models/post_item_model.dart';
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/widgets/custom_elevated_button.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/widgets/custom_elevated_button.dart';
 import 'provider/blog_grid_view_provider.dart';
 
 // ignore_for_file: must_be_immutable

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/presentation/category_grid_view_full_screen/models/category_grid_view_full_model.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/presentation/category_grid_view_full_screen/models/category_grid_view_full_model.dart';
 import '../models/tag_item_model.dart';
 
 /// A provider class for the CategoryGridViewFullScreen.

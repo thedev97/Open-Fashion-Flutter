@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/main.dart';
+import 'package:open_fashion/main.dart';
 
 class ServerException implements Exception {}
 

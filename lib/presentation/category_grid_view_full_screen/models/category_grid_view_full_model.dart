@@ -1,4 +1,4 @@
-import 'package:simplicity_store/data/models/selectionPopupModel/selection_popup_model.dart';
+import 'package:open_fashion/data/models/selectionPopupModel/selection_popup_model.dart';
 import 'tag_item_model.dart';
 import '../../../core/app_export.dart';
 

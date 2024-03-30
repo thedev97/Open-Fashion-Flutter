@@ -1,6 +1,6 @@
 import '../models/userprofile_item_model.dart';
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
+import 'package:open_fashion/core/app_export.dart';
 
 // ignore: must_be_immutable
 class UserprofileItemWidget extends StatelessWidget {

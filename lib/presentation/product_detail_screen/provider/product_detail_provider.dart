@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/presentation/product_detail_screen/models/product_detail_model.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/presentation/product_detail_screen/models/product_detail_model.dart';
 import '../models/slider_item_model.dart';
 import '../models/userprofile_item_model.dart';
 

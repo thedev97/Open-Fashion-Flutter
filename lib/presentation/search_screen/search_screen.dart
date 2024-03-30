@@ -1,6 +1,6 @@
 import 'models/search_model.dart';
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
+import 'package:open_fashion/core/app_export.dart';
 import 'provider/search_provider.dart';
 
 class SearchScreen extends StatefulWidget {

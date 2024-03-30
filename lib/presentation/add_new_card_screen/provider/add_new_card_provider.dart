@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/presentation/add_new_card_screen/models/add_new_card_model.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/presentation/add_new_card_screen/models/add_new_card_model.dart';
 import '../models/userprofile2_item_model.dart';
 import '../models/userprofile3_item_model.dart';
 

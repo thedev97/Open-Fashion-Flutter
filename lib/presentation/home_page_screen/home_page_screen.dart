@@ -5,17 +5,17 @@ import 'models/productcard_item_model.dart';
 import 'models/username_item_model.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
+import 'package:open_fashion/core/app_export.dart';
 import '../home_page_screen/widgets/frameeleven_item_widget.dart';
 import '../home_page_screen/widgets/product_item_widget.dart';
 import '../home_page_screen/widgets/productcard_item_widget.dart';
 import '../home_page_screen/widgets/username_item_widget.dart';
-import 'package:simplicity_store/widgets/app_bar/appbar_leading_image.dart';
-import 'package:simplicity_store/widgets/app_bar/appbar_title_image.dart';
-import 'package:simplicity_store/widgets/app_bar/appbar_trailing_image.dart';
-import 'package:simplicity_store/widgets/app_bar/custom_app_bar.dart';
-import 'package:simplicity_store/widgets/custom_elevated_button.dart';
-import 'package:simplicity_store/widgets/custom_icon_button.dart';
+import 'package:open_fashion/widgets/app_bar/appbar_leading_image.dart';
+import 'package:open_fashion/widgets/app_bar/appbar_title_image.dart';
+import 'package:open_fashion/widgets/app_bar/appbar_trailing_image.dart';
+import 'package:open_fashion/widgets/app_bar/custom_app_bar.dart';
+import 'package:open_fashion/widgets/custom_elevated_button.dart';
+import 'package:open_fashion/widgets/custom_icon_button.dart';
 
 class HomePageScreen extends StatefulWidget {
   const HomePageScreen({Key? key}) : super(key: key);

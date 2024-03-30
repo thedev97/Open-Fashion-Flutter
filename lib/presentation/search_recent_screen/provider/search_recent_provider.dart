@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/presentation/search_recent_screen/models/search_recent_model.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/presentation/search_recent_screen/models/search_recent_model.dart';
 import '../models/chipviewclose_item_model.dart';
 
 /// A provider class for the SearchRecentScreen.

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/presentation/cart_screen/models/cart_model.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/presentation/cart_screen/models/cart_model.dart';
 import '../models/cartcomponent_item_model.dart';
 
 /// A provider class for the CartScreen.

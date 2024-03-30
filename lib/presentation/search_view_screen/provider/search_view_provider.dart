@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/presentation/search_view_screen/models/search_view_model.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/presentation/search_view_screen/models/search_view_model.dart';
 import '../models/productgrid_item_model.dart';
 
 /// A provider class for the SearchViewScreen.

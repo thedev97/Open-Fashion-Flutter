@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/presentation/category_listview_screen/models/category_listview_model.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/presentation/category_listview_screen/models/category_listview_model.dart';
 import '../models/productlist_item_model.dart';
 
 /// A provider class for the CategoryListviewScreen.

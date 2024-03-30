@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/presentation/add_new_address_screen/models/add_new_address_model.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/presentation/add_new_address_screen/models/add_new_address_model.dart';
 
 /// A provider class for the AddNewAddressScreen.
 ///

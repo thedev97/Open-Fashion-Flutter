@@ -1,11 +1,11 @@
 import 'models/fourhundredfour_model.dart';
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
-import 'package:simplicity_store/widgets/app_bar/appbar_leading_image.dart';
-import 'package:simplicity_store/widgets/app_bar/appbar_title_image.dart';
-import 'package:simplicity_store/widgets/app_bar/appbar_trailing_image.dart';
-import 'package:simplicity_store/widgets/app_bar/custom_app_bar.dart';
-import 'package:simplicity_store/widgets/custom_elevated_button.dart';
+import 'package:open_fashion/core/app_export.dart';
+import 'package:open_fashion/widgets/app_bar/appbar_leading_image.dart';
+import 'package:open_fashion/widgets/app_bar/appbar_title_image.dart';
+import 'package:open_fashion/widgets/app_bar/appbar_trailing_image.dart';
+import 'package:open_fashion/widgets/app_bar/custom_app_bar.dart';
+import 'package:open_fashion/widgets/custom_elevated_button.dart';
 import 'provider/fourhundredfour_provider.dart';
 
 class FourhundredfourScreen extends StatefulWidget {

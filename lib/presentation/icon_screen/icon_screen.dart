@@ -2,7 +2,7 @@ import '../icon_screen/widgets/icon_item_widget.dart';
 import 'models/icon_item_model.dart';
 import 'models/icon_model.dart';
 import 'package:flutter/material.dart';
-import 'package:simplicity_store/core/app_export.dart';
+import 'package:open_fashion/core/app_export.dart';
 import 'provider/icon_provider.dart';
 
 class IconScreen extends StatefulWidget {
